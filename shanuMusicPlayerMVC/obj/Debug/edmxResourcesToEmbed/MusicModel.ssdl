@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="musicPlayerDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="AlbumMaster">
+    <Key>
+      <PropertyRef Name="AlbumID" />
+    </Key>
+    <Property Name="AlbumID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AlbumName" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="ImageName" Type="varchar" MaxLength="500" Nullable="false" />
+  </EntityType>
+  <EntityType Name="MusicPlayerMaster">
+    <Key>
+      <PropertyRef Name="MusicID" />
+    </Key>
+    <Property Name="MusicID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SingerName" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="AlbumName" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="MusicFileName" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="Description" Type="varchar" MaxLength="100" Nullable="false" />
+  </EntityType>
+  <Function Name="USP_Album_Insert" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="AlbumName" Type="varchar" Mode="In" />
+    <Parameter Name="ImageName" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="USP_AlbumMaster_Select" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="AlbumName" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="USP_MusicAlbum_Delete" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="musicID" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="USP_MusicAlbum_Insert" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="SingerName" Type="varchar" Mode="In" />
+    <Parameter Name="AlbumName" Type="varchar" Mode="In" />
+    <Parameter Name="MusicFileName" Type="varchar" Mode="In" />
+    <Parameter Name="Description" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="USP_MusicAlbum_SelectALL" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="AlbumName" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="USP_MusicAlbum_Update" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="musicID" Type="varchar" Mode="In" />
+    <Parameter Name="SingerName" Type="varchar" Mode="In" />
+    <Parameter Name="AlbumName" Type="varchar" Mode="In" />
+    <Parameter Name="MusicFileName" Type="varchar" Mode="In" />
+    <Parameter Name="Description" Type="varchar" Mode="In" />
+  </Function>
+  <EntityContainer Name="musicPlayerDBModelStoreContainer">
+    <EntitySet Name="AlbumMaster" EntityType="Self.AlbumMaster" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MusicPlayerMaster" EntityType="Self.MusicPlayerMaster" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

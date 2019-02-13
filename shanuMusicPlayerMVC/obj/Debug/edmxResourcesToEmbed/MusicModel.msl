@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="musicPlayerDBModelStoreContainer" CdmEntityContainer="MusicPlayerDBEntities">
+    <EntitySetMapping Name="AlbumMasters">
+      <EntityTypeMapping TypeName="musicPlayerDBModel.AlbumMaster">
+        <MappingFragment StoreEntitySet="AlbumMaster">
+          <ScalarProperty Name="AlbumID" ColumnName="AlbumID" />
+          <ScalarProperty Name="AlbumName" ColumnName="AlbumName" />
+          <ScalarProperty Name="ImageName" ColumnName="ImageName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MusicPlayerMasters">
+      <EntityTypeMapping TypeName="musicPlayerDBModel.MusicPlayerMaster">
+        <MappingFragment StoreEntitySet="MusicPlayerMaster">
+          <ScalarProperty Name="MusicID" ColumnName="MusicID" />
+          <ScalarProperty Name="SingerName" ColumnName="SingerName" />
+          <ScalarProperty Name="AlbumName" ColumnName="AlbumName" />
+          <ScalarProperty Name="MusicFileName" ColumnName="MusicFileName" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="USP_Album_Insert" FunctionName="musicPlayerDBModel.Store.USP_Album_Insert" />
+    <FunctionImportMapping FunctionImportName="USP_AlbumMaster_Select" FunctionName="musicPlayerDBModel.Store.USP_AlbumMaster_Select">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="musicPlayerDBModel.USP_AlbumMaster_Select_Result">
+          <ScalarProperty Name="AlbumID" ColumnName="AlbumID" />
+          <ScalarProperty Name="AlbumName" ColumnName="AlbumName" />
+          <ScalarProperty Name="ImageName" ColumnName="ImageName" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="USP_MusicAlbum_Delete" FunctionName="musicPlayerDBModel.Store.USP_MusicAlbum_Delete" />
+    <FunctionImportMapping FunctionImportName="USP_MusicAlbum_Insert" FunctionName="musicPlayerDBModel.Store.USP_MusicAlbum_Insert" />
+    <FunctionImportMapping FunctionImportName="USP_MusicAlbum_SelectALL" FunctionName="musicPlayerDBModel.Store.USP_MusicAlbum_SelectALL">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="musicPlayerDBModel.USP_MusicAlbum_SelectALL_Result">
+          <ScalarProperty Name="MusicID" ColumnName="MusicID" />
+          <ScalarProperty Name="SingerName" ColumnName="SingerName" />
+          <ScalarProperty Name="AlbumName" ColumnName="AlbumName" />
+          <ScalarProperty Name="MusicFileName" ColumnName="MusicFileName" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="USP_MusicAlbum_Update" FunctionName="musicPlayerDBModel.Store.USP_MusicAlbum_Update" />
+  </EntityContainerMapping>
+</Mapping>

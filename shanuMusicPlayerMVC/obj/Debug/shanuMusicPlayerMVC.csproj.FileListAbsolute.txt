@@ -1,0 +1,310 @@
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\roslyn\csc.exe
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\roslyn\System.Collections.Immutable.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\roslyn\System.Reflection.Metadata.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\roslyn\vbc.exe
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\roslyn\VBCSCompiler.exe
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\roslyn\VBCSCompiler.exe.config
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\shanuMusicPlayerMVC.dll.config
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\shanuMusicPlayerMVC.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\shanuMusicPlayerMVC.pdb
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\Antlr3.Runtime.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\EntityFramework.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\EntityFramework.SqlServer.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\Microsoft.Owin.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\Microsoft.Owin.Security.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\Microsoft.Owin.Security.Google.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\Microsoft.Web.Infrastructure.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\Newtonsoft.Json.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\Owin.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\System.Net.Http.Formatting.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\System.Web.Helpers.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\System.Web.Http.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\System.Web.Http.WebHost.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\System.Web.Mvc.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\System.Web.Optimization.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\System.Web.Razor.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\System.Web.WebPages.Deployment.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\System.Web.WebPages.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\System.Web.WebPages.Razor.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\WebGrease.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\System.Web.Helpers.xml
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\System.Web.Mvc.xml
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\System.Web.Optimization.xml
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\System.Web.Razor.xml
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\System.Web.WebPages.xml
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\System.Web.WebPages.Deployment.xml
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\System.Web.WebPages.Razor.xml
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\Antlr3.Runtime.pdb
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\Newtonsoft.Json.xml
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\System.Net.Http.Formatting.xml
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\System.Web.Http.xml
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\System.Web.Http.WebHost.xml
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\EntityFramework.xml
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\EntityFramework.SqlServer.xml
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\Microsoft.Owin.xml
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\Microsoft.Owin.Security.xml
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\Microsoft.Owin.Security.Google.xml
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\obj\Debug\shanuMusicPlayerMVC.csprojResolveAssemblyReference.cache
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\obj\Debug\shanuMusicPlayerMVC.dll
+G:\Shanu\VS2015\MVCAngularJsMusicPlayer\shanuMusicPlayerMVC\shanuMusicPlayerMVC\obj\Debug\shanuMusicPlayerMVC.pdb
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\x86\sqlite3.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\x64\sqlite3.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\x86\e_sqlite3.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\x64\e_sqlite3.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\roslyn\csc.exe
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\roslyn\vbc.exe
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\shanuMusicPlayerMVC.dll.config
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\shanuMusicPlayerMVC.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\shanuMusicPlayerMVC.pdb
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Win32.Primitives.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\netstandard.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.AppContext.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Collections.Concurrent.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Collections.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Collections.NonGeneric.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Collections.Specialized.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.ComponentModel.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.ComponentModel.Primitives.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Console.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Data.Common.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Diagnostics.Contracts.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Diagnostics.Debug.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Diagnostics.Process.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Diagnostics.StackTrace.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Diagnostics.Tools.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Diagnostics.TraceSource.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Diagnostics.Tracing.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Drawing.Primitives.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Dynamic.Runtime.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Globalization.Calendars.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Globalization.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Globalization.Extensions.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.IO.Compression.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.IO.Compression.ZipFile.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.IO.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.IO.FileSystem.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.IO.IsolatedStorage.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.IO.Pipes.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Linq.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Linq.Expressions.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Linq.Parallel.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Linq.Queryable.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Net.Http.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Net.NameResolution.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Net.NetworkInformation.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Net.Ping.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Net.Primitives.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Net.Requests.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Net.Security.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Net.Sockets.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Net.WebHeaderCollection.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Net.WebSockets.Client.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Net.WebSockets.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.ObjectModel.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Reflection.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Reflection.Extensions.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Reflection.Primitives.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Resources.Reader.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Resources.ResourceManager.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Resources.Writer.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Runtime.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Runtime.Extensions.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Runtime.Handles.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Runtime.InteropServices.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Runtime.Numerics.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Runtime.Serialization.Json.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Security.Claims.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Security.Cryptography.Csp.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Security.Principal.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Security.SecureString.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Text.Encoding.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Text.Encoding.Extensions.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Text.RegularExpressions.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Threading.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Threading.Overlapped.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Threading.Tasks.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Threading.Thread.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Threading.ThreadPool.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Threading.Timer.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.ValueTuple.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Xml.ReaderWriter.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Xml.XDocument.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Xml.XmlDocument.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Xml.XmlSerializer.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Xml.XPath.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Xml.XPath.XDocument.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Antlr3.Runtime.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\EntityFramework.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Data.Sqlite.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Extensions.Logging.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Extensions.Options.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Owin.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Newtonsoft.Json.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Owin.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Remotion.Linq.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\SQLitePCLRaw.batteries_green.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\SQLitePCLRaw.batteries_v2.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\SQLitePCLRaw.core.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Buffers.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Collections.Immutable.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.ComponentModel.Annotations.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Data.SqlClient.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Interactive.Async.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Memory.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Numerics.Vectors.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Web.Helpers.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Web.Http.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Web.Mvc.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Web.Optimization.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Web.Razor.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Web.WebPages.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\WebGrease.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\EntityFramework.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Data.Sqlite.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Extensions.Logging.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Extensions.Options.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Newtonsoft.Json.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Remotion.Linq.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Buffers.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Interactive.Async.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Memory.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Numerics.Vectors.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Web.Helpers.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Web.Mvc.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Web.Optimization.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Web.Razor.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Web.WebPages.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Antlr3.Runtime.pdb
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Web.Http.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\System.Web.Http.WebHost.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Owin.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\obj\Debug\shanuMusicPlayerMVC.csproj.CoreCompileInputs.cache
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\obj\Debug\shanuMusicPlayerMVC.dll
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\obj\Debug\shanuMusicPlayerMVC.pdb
+C:\Users\macie\Documents\projekt grupowy\shanuMusicPlayerMVC\obj\Debug\shanuMusicPlayerMVC.csprojResolveAssemblyReference.cache
